@@ -1,5 +1,5 @@
 # hola-mundo
-Mi primer repositorio de prueba.
+Mi primer repositorio.
 
 Autor: Arturo OM.
 Fecha: 7 de febrero.
